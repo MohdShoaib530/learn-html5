@@ -1,2 +1,4 @@
-# learning-html5
-"Explore the fundamentals of HTML5, the cornerstone of modern web development. This concise tutorial covers essential HTML5 elements, tags, and attributes, providing a solid foundation for creating dynamic and responsive websites. Perfect for beginners seeking a clear and practical introduction to HTML5."
+# React-learn
+ "Exploring React in this GitHub repo—my journey into building dynamic UIs, mastering components, and embracing the power of React."
+
+
