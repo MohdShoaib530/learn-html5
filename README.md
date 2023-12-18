@@ -1,4 +1,3 @@
-# React-learn
- "Exploring React in this GitHub repo—my journey into building dynamic UIs, mastering components, and embracing the power of React."
+"Explore the fundamentals of HTML5, the cornerstone of modern web development
 
 
